@@ -77,7 +77,7 @@ const Navbar = () => {
     <div className="navbar fixed top-0 left-0 w-full z-50 bg-base-100/75 backdrop-blur-md shadow-sm px-4 lg:px-8">
       {/* Left side: Logo */}
       <div className="navbar-start">
-        <div className="w-15 h-12 flex items-center">
+        <div className="flex items-center">
           <Logo />
         </div>
       </div>

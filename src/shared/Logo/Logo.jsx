@@ -7,14 +7,19 @@ const Logo = () => {
         <div>
             <Link to="/" className="flex items-center gap-3 group no-underline">
                 {/* লোগো ইমেজ */}
-                <div className="w-18 h-18 overflow-hidden flex items-center justify-center">
+                <div className="w-14 h-14 overflow-hidden flex items-center justify-center">
                     <img className="w-full h-full object-contain" src={picture} alt="Environment Club Logo" />
                 </div>
                 
-                {/* Environment Club লেখা */}
-                <span className="font-bold text-lg md:text-xl text-emerald-800 tracking-wide hover:text-green-900">
-                    Environment Club
-                </span>
+                {/* দুই লাইনে ক্লাব নাম */}
+                <div className="flex flex-col justify-center leading-tight">
+                    <span className="font-bold text-sm md:text-base text-emerald-900 tracking-wide group-hover:text-emerald-700 transition-colors">
+                        DScE Environment
+                    </span>
+                    <span className="font-extrabold text-base md:text-lg text-emerald-700 tracking-wider">
+                        Club
+                    </span>
+                </div>
             </Link>
         </div>
     );
