@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co.com/M5B0pnXH/Whats-App-Image-2026-09-21-at-9-47-09-PM.jpg",
+    "name": "Fariha Tabassum",
+    "designation": "President",
+    "mail": "fariha.bere6@dsce.edu.bd",
+    "contact": "+8801613113289",
+    "facebook": "https://www.facebook.com/share/16DDmez6S25/",
+    "committee_year": "2025-26 Executive committee"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co.com/cKLzHMXs/IMG-20260807-WA0074.jpg",
+    "name": "Nahid Khan Niloy",
+    "designation": "General Secretary",
+    "mail": "nahidkhanniloy75@gmail.com",
+    "contact": "+8801905397152",
+    "facebook": "https://www.facebook.com/share/19RZu3s5zK/",
+    "committee_year": "2025-26 Executive committee"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co.com/Tq2bdktr/Whats-App-Image-2026-09-21-at-11-07-20-PM.jpg",
+    "name": "Muhammad Tanvir Ahmmed",
+    "designation": "Assistant General Secretary",
+    "mail": "its0tanvir@gmail.com",
+    "contact": "+880 1902-037362",
+    "facebook": "https://www.facebook.com/share/1TXUj5djjC/",
+    "committee_year": "2025-26 Executive committee"
+  }
+]
